@@ -1,0 +1,15 @@
+# Bilpleiesenteret Larvik AS
+
+- Bransje: Reparasjon og vedlikehold av motorvogner
+- Sted: Larvik
+- E-post: firmapost@tomegil.no
+- Telefon: 908 41 950
+
+## Tjenester
+
+- Bilpleie: Stell som holder bilen ren og pen, og som tar vare på lakk og overflater.
+- Vedlikehold av bil: Jevnlig vedlikehold som tar vare på bilen. Spør oss om hva vi kan hjelpe deg med.
+
+## Om nettsiden
+
+Laget av Nettsideferdig (https://nettsideferdig.no/).
